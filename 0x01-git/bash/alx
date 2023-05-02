@@ -1,6 +1,6 @@
-#!/bin/bash
 <<<<<<< HEAD
-echo "ALX School is so cool!"
+Changes made in Master
 =======
-echo "ALX School"
+Changes made in the update_script
 >>>>>>> update_script
+
